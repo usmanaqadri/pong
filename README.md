@@ -6,3 +6,5 @@
 
 
 ### Who will win? Let's find out.
+
+#### Download repo and install required modules to play in your environment
